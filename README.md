@@ -1,4 +1,7 @@
-# Hyperlocal Marketplace — Vue 3 Frontend (MVP)
+
+<a href="https://ibb.co/wZMdKPNS"><img src="https://i.ibb.co/LDn0Cczx/hyperlocal-marketplace-lgog.png" alt="hyperlocal-marketplace-lgog" border="0" width="100"></a>
+
+# Hyperlocal Marketplace
 
 This repository contains a complete frontend scaffold for the hyperlocal marketplace MVP described by the user. Built with Vue 3, Vite, TypeScript, Pinia, Vue Router and Tailwind CSS.
 
